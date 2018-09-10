@@ -1,2 +1,2 @@
-hello git!
-update good.txt.
+hello git.txt.
+1
